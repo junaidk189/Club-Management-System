@@ -1,0 +1,6 @@
+Developed a **Club Management System** using **MySQL** to efficiently manage and organize club-related operations such as members, memberships, payments, events, and trainers in a structured database environment.
+
+Designed relational database tables with proper normalization to ensure data consistency, integrity, and efficient storage management. Implemented SQL queries for data insertion, retrieval, filtering, updating, and reporting to streamline daily club operations.
+
+The project also includes analytical queries for tracking membership status, payment records, trainer details, and event participation, helping generate meaningful insights and improve management efficiency. Additionally, joins, aggregate functions, and constraints were used to enhance database performance, accuracy, and security.
+
